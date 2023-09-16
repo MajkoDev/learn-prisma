@@ -1,0 +1,17 @@
+//* Prisma Schema
+// the main configuration file for your Prisma setup.
+
+//* Generator
+// specifies what client should be generated based on the data model 
+generator client {
+  provider = "prisma-client-js"
+}
+
+//* Data Source
+// specify the details of the data sources Prisma should connect to
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+//* 
