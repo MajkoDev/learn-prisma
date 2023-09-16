@@ -6,7 +6,6 @@
 
 **ORM (Object-Relational Mapping).** <br/>Prisma allows you to interact with your database using a programming language's object-oriented paradigm.
 
-
 ### Prisma Schema 
 - defining data models
 - place where you define your database models and relations
