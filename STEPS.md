@@ -9,6 +9,7 @@ npm install prisma --save-dev
 
 2. Prisma Modal.
 
+
 3. Prisma Migrate.
 
 4. Prisma Client.

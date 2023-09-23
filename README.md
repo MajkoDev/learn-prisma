@@ -11,6 +11,9 @@
 - place where you define your database models and relations
 - you can write it from start or generate it
 
+- main configuration file for your Prisma setup
+- contains: data sources, generators, data model definition
+
 ### Prisma Client 
 - database access
 - interact with your database using JavaScript or TypeScript
